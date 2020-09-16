@@ -13,6 +13,10 @@
 
 # KickStart
 
+<h2> Watch it on Youtube<img src="https://img.icons8.com/cotton/30/000000/like--v1.png"/></h2>
+
+<a href="https://www.youtube.com/watch?v=bmVCnvK2AKY" target="_blank"> Click  Here!</a>
+
 Online platform of remote classroom.
 <p style="padding:10px;margin:10px;text-style:justify;">
   <h3>Project Description</h3>
@@ -51,7 +55,5 @@ Our project Kickstart is a web application that enables us to provide education 
 	Video download option<br>
 
 </p>
-<h2> Watch it on Youtube<img src="https://img.icons8.com/cotton/30/000000/like--v1.png"/></h2>
 
-<a href="https://www.youtube.com/watch?v=bmVCnvK2AKY" target="_blank"> Click  Here!</a>
 
